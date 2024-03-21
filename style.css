@@ -188,6 +188,7 @@
   }
   .sec16 {
     margin-top: 60px;
+    padding-left: 10px;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   }
   .container1 {
@@ -504,15 +505,15 @@
     .sec8,
     .sec9,
     .sec10 {
-      font-size: 12px;
-      padding-top: 50px;
+      font-size: 17px;
+      padding-top: 33px;
     }
     
     .sec7 a,
     .sec7 p,
     .sec10 a,
     .sec10 p {
-      font-size: 9px;
+      font-size: 12px;
     }
     .sec4 {
       display: flex;
